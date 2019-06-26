@@ -1,0 +1,36 @@
+h1{
+    color: #5C2FA9;
+}
+
+h2{
+    color: #5C2FA9;
+}
+
+h3{
+    text-decoration: underline;
+    color: #0D0318;
+    border: 1px solid black ;
+}
+p:hover {
+    font-weight: bold;
+}
+
+
+h4{
+    text-decoration: underline;
+    color: #0D0318;
+    border: 1px solid black ;
+}
+
+h5{
+    text-decoration: underline;
+    color: #0D0318;
+    border: 1px solid black ;
+}
+
+
+
+
+
+
+
